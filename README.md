@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pateltushar2001" alt="pateltushar2001" /></a> </p>
 
-- 🔭 I’m currently working on [Real-Time Chat Application](https://github.com/PatelTushar2001/Real-Time-Chat-Application)
+- 🔭 I’m currently working at Samcom Technobrains as Softwere Developer.
 
 - 🌱 I’m currently learning **Android Programming**
 
